@@ -1,0 +1,4 @@
+[proxy_all]
+[outbound_block_list]
+# 禁止访问列表
+(^|\.)googleapis\.cn$
